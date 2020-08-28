@@ -6,6 +6,7 @@ public class StudentPojo {
 	@JsonProperty(value = "student-id")
 	private String id;
 	private String name;
+	private String age;
 	private String sname;
 
 	public String getId() {
