@@ -7,6 +7,8 @@ public class StudentPojo {
 	private String id;
 	private String name;
 	private String age;
+	private String sname;
+
 	public String getId() {
 		return id;
 	}
